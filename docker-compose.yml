@@ -6,9 +6,9 @@ services:
     build: .
     command: bash bash.sh
     environment:
-      API_ID: 10038985 # Your API HASH from my.telegram.org
-      API_HASH: b13a9434d5f59fdb592bf3cd0f457eff # Your API ID from my.telegram.org
-      BOT_TOKEN: 5047107455:AAEegooVkYZXUr1vt8fMDyDeMy5j7KlElXg # Bot token, get it from @BotFather 
-      SESSION: 1BJWap1sBuynlVy6OKooR91ZCHhPg2JY-iS6rwSrdfvYiFzbPMbhmHBLnYCufeQA23TBhrjf16jb7_8wXeMiyixK0fzrC1QEnhzycBodgZ7ATz9n_uHr_jVDTaq-XeFDsbt5n4mVKoiECFprPVcNE6h23cFTYj1JAaSr50XY3WIhUotUgUI1aWIs3Ft1G7Yr_jr7aHpIYTVjuKpzIwrxBBu1P2n6Mmjoxb7qvlqAJ1EgFr0Mb5tNIcFk9Wy84BZLl2x3GZfp7hxXRoNGMOl8NvP1IkIxqNfnq0sqf8bgH-k6umTBLN5hI7Zlt2wWMCrqJQortWz-dv79B34BGM8HMq2XnyNW8hR8= # Pyrogram string session
-      AUTH: 1187675214 # User ID of Bot owner
-      FORCESUB: assimilat0r # Username name of public channel without using '@'
+      API_ID:  # Your API HASH from my.telegram.org
+      API_HASH:  # Your API ID from my.telegram.org
+      BOT_TOKEN: # Bot token, get it from @BotFather 
+      SESSION: 
+      AUTH:  # User ID of Bot owner
+      FORCESUB: # Username name of public channel without using '@'
